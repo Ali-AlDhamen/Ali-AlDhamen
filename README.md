@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-aldhamen&label=Profile%20views&color=0e75b6&style=flat" alt="ali-aldhamen" /> </p>
 
-- 🔭 I’m currently working on **taqyeemi**
+- 🔭 I’m currently working on **quizy**
 
-- 🌱 I’m currently learning **flutter & react**
+- 🌱 I’m currently learning **flutter & nextjs**
 
 - 👯 I’m looking to collaborate on **with other developers to build fun stuff**
 
