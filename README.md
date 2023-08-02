@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">Computer Science Student at IAU</h3>
+<h3 align="center">Artificial Intelligence Student at IAU</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-aldhamen&label=Profile%20views&color=0e75b6&style=flat" alt="ali-aldhamen" /> </p>
 
