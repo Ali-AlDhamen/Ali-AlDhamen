@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-aldhamen&label=Profile%20views&color=0e75b6&style=flat" alt="ali-aldhamen" /> </p>
 
 
-- 🔭 I’m currently working on **QuizAI**
+- 🔭 I’m currently working on **Something Interesting**
 
 - 🌱 I’m currently learning **Flutter & NextJs**
 
