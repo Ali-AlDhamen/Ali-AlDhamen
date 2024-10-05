@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Something Interesting**
 
-- 🌱 I’m currently learning **Flutter & NextJs & fastAPI**
+- 🌱 I’m currently learning **NextJs & fastAPI**
 
 - 👯 I’m looking to collaborate on **with other developers to build fun stuff**
 
